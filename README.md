@@ -2,6 +2,8 @@
 
 This is a jupyter notebook, you need to set up environment to run this project, for setting up environment please visit.
 
+Or just put the jupyter notebook on any online service (E.g: Google Colab) and Run without any environment set up.
+
 https://code.visualstudio.com/docs/datascience/data-science-tutorial
 
 This project is originally from DataCodeCamp, for more details please visit.
