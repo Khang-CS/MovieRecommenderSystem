@@ -1,6 +1,9 @@
 {
     "cSpell.words": [
         "IMDB",
-        "quantile"
+        "quantile",
+        "scikit",
+        "Tfidf",
+        "Vectorizer"
     ]
 }
