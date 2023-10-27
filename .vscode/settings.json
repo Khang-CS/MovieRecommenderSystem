@@ -1,8 +1,11 @@
 {
     "cSpell.words": [
+        "iloc",
         "IMDB",
         "quantile",
         "scikit",
+        "sklearn",
+        "sklearn's",
         "Tfidf",
         "Vectorizer"
     ]
